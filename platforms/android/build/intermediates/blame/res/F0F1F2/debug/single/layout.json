@@ -4,12 +4,12 @@
         "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/abc_screen_simple.xml",
-        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_simple.xml"
-    },
-    {
         "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/notification_template_icon_group.xml",
         "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/abc_screen_simple.xml",
+        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/abc_action_menu_item_layout.xml",
@@ -32,12 +32,12 @@
         "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/design_navigation_item.xml",
-        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item.xml"
-    },
-    {
         "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/design_navigation_menu_item.xml",
         "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/design_navigation_item.xml",
+        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout/abc_list_menu_item_layout.xml",

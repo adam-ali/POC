@@ -123,6 +123,7 @@ android {
 		ndk {
             		abiFilters "armeabi-v7a", "x86"
 		}
+		applicationId "xxxx"
 	}
 	
 	sourceSets.main {
@@ -178,9 +179,12 @@ android {
 repositories {
     jcenter()
     // used for local *.AAR files
-    flatDir {
-    	dirs 'libs/aar'
-	}
+    // flatDir {
+    // 	dirs 'libs/aar'
+	// }
+	 flatDir{
+        dirs 'libs'
+    }
 }
 
 dependencies {
@@ -192,6 +196,10 @@ dependencies {
     compile "com.android.support:support-v4:$suppotVer"
     compile "com.android.support:appcompat-v7:$suppotVer"
 	debugCompile "com.android.support:design:$suppotVer"
+
+   compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile (name: 'wikitudesdk', ext:'aar')
+    compile 'com.android.support:appcompat-v7:21.0.3'
 
     // take all jars within the libs dir
 	compile fileTree(dir: "$projectDir/libs", include: ["**/*.jar"])

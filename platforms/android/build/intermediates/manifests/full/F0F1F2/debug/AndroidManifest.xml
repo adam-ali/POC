@@ -10,7 +10,9 @@
 
     <uses-permission android:name="android.permission.CAMERA" />
 
-    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
 
     <supports-screens
         android:largeScreens="true"
@@ -21,6 +23,30 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.sensor.compass"
+        android:required="true" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="19" />
 
     <application
         android:name="com.tns.NativeScriptApplication"
@@ -40,7 +66,7 @@
 
         <activity
             android:name="com.tns.NativeScriptActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:configChanges="keyboardHidden|orientation|screenSize|orientation"
             android:label="@string/title_activity_kimera" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -49,6 +75,11 @@
             </intent-filter>
         </activity>
         <activity android:name="com.tns.ErrorReportActivity" />
+        <activity android:name="com.wikitude.architect.BrowserActivity" />
+        <activity
+            android:name="com.wikitude.tools.activities.MediaPlayerActivity"
+            android:screenOrientation="landscape" >
+        </activity>
     </application>
 
 </manifest>
