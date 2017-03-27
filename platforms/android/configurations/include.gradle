@@ -1,4 +1,4 @@
 
 android {
-    flavorDimensions "tnscoremoduleswidgets", "nativescriptflashlight", "nativescriptcamera"
+    flavorDimensions "tnscoremoduleswidgets", "nativescriptwikitudearchitectview", "nativescriptcamera"
 }

@@ -2,25 +2,25 @@
   "_args": [
     [
       {
-        "raw": "tns-core-modules@2.5.0",
+        "raw": "tns-core-modules",
         "scope": null,
         "escapedName": "tns-core-modules",
         "name": "tns-core-modules",
-        "rawSpec": "2.5.0",
-        "spec": "2.5.0",
-        "type": "version"
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
       },
       "/home/adamali/Projects/POC-Star"
     ]
   ],
-  "_from": "tns-core-modules@2.5.0",
-  "_id": "tns-core-modules@2.5.0",
+  "_from": "tns-core-modules@latest",
+  "_id": "tns-core-modules@2.5.2",
   "_inCache": true,
   "_location": "/tns-core-modules",
-  "_nodeVersion": "6.9.4",
+  "_nodeVersion": "6.10.0",
   "_npmOperationalInternal": {
     "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/tns-core-modules-2.5.0.tgz_1485940021974_0.7627215369138867"
+    "tmp": "tmp/tns-core-modules-2.5.2.tgz_1490103514803_0.04380485508590937"
   },
   "_npmUser": {
     "name": "tns-bot",
@@ -29,21 +29,22 @@
   "_npmVersion": "3.10.10",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "tns-core-modules@2.5.0",
+    "raw": "tns-core-modules",
     "scope": null,
     "escapedName": "tns-core-modules",
     "name": "tns-core-modules",
-    "rawSpec": "2.5.0",
-    "spec": "2.5.0",
-    "type": "version"
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-2.5.0.tgz",
-  "_shasum": "25ebfa410a67fd34c86da8526633b071a0d756f7",
+  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-2.5.2.tgz",
+  "_shasum": "3240618ecc43d8cd7bcaef27afe0be24be47284b",
   "_shrinkwrap": null,
-  "_spec": "tns-core-modules@2.5.0",
+  "_spec": "tns-core-modules",
   "_where": "/home/adamali/Projects/POC-Star",
   "dependencies": {
     "tns-core-modules-widgets": "2.5.0"
@@ -54,8 +55,8 @@
   },
   "directories": {},
   "dist": {
-    "shasum": "25ebfa410a67fd34c86da8526633b071a0d756f7",
-    "tarball": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-2.5.0.tgz"
+    "shasum": "3240618ecc43d8cd7bcaef27afe0be24be47284b",
+    "tarball": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-2.5.2.tgz"
   },
   "files": [
     "**/*.d.ts",
@@ -83,10 +84,6 @@
       "email": "hristo.hristov@outlook.com"
     },
     {
-      "name": "nsndeck",
-      "email": "nedyalko.nikolov@telerik.com"
-    },
-    {
       "name": "panayot.cankov",
       "email": "panayot.cankov@telerik.com"
     },
@@ -110,9 +107,9 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NativeScript/NativeScript/commit/30aca890749e9e3fb9bd0f5ddc9de5b6995859bc"
+    "url": "https://github.com/NativeScript/NativeScript/commit/74800924f83b1eb45e37e983fd1be481dec8a5c0"
   },
   "scripts": {},
   "typings": "tns-core-modules.d.ts",
-  "version": "2.5.0"
+  "version": "2.5.2"
 }

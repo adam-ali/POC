@@ -1,0 +1,116 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-wikitudearchitectview",
+        "scope": null,
+        "escapedName": "nativescript-wikitudearchitectview",
+        "name": "nativescript-wikitudearchitectview",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/adamali/Projects/POC-Star"
+    ]
+  ],
+  "_from": "nativescript-wikitudearchitectview@latest",
+  "_id": "nativescript-wikitudearchitectview@0.4.6",
+  "_inCache": true,
+  "_location": "/nativescript-wikitudearchitectview",
+  "_nodeVersion": "4.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-wikitudearchitectview-0.4.6.tgz_1482468892840_0.550781641388312"
+  },
+  "_npmUser": {
+    "name": "jinhong",
+    "email": "chinjinhong@hotmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-wikitudearchitectview",
+    "scope": null,
+    "escapedName": "nativescript-wikitudearchitectview",
+    "name": "nativescript-wikitudearchitectview",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-wikitudearchitectview/-/nativescript-wikitudearchitectview-0.4.6.tgz",
+  "_shasum": "9d6be0f99a02248774dfa976e578fcf062aebb88",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-wikitudearchitectview",
+  "_where": "/home/adamali/Projects/POC-Star",
+  "author": {
+    "name": "jin"
+  },
+  "bugs": {
+    "url": "https://github.com/jinhong/nativescript-wikitudearchitectview/issues"
+  },
+  "contributors": [
+    {
+      "name": "Jin",
+      "url": "https://github.com/jinhong-"
+    }
+  ],
+  "dependencies": {},
+  "description": "A NativeScript plugin wikitude architect view.",
+  "devDependencies": {
+    "babel-traverse": "6.19.0",
+    "babel-types": "6.19.0",
+    "babylon": "6.14.1",
+    "lazy": "1.0.11",
+    "tns-core-modules": "2.4.0",
+    "tns-platform-declarations": "2.4.0",
+    "typescript": "1.8.10"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "9d6be0f99a02248774dfa976e578fcf062aebb88",
+    "tarball": "https://registry.npmjs.org/nativescript-wikitudearchitectview/-/nativescript-wikitudearchitectview-0.4.6.tgz"
+  },
+  "gitHead": "e8ff7ba61854dd7c5b4a336d3f3c14ee6935dddb",
+  "homepage": "https://github.com/jinhong-/nativescript-wikitudearchitectview",
+  "keywords": [
+    "NativeScript",
+    "Wikitude"
+  ],
+  "license": "MIT",
+  "main": "architectview.js",
+  "maintainers": [
+    {
+      "name": "jinhong",
+      "email": "chinjinhong@hotmail.com"
+    }
+  ],
+  "name": "nativescript-wikitudearchitectview",
+  "nativescript": {
+    "id": "com.nativescript.wikitudearchitectview",
+    "tns-ios": {
+      "version": "2.4.0"
+    },
+    "tns-android": {
+      "version": "2.4.1"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinhong-/nativescript-wikitudearchitectview.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo && cd demo && tns livesync android --watch",
+    "demo.ios": "npm run preparedemo && cd demo && tns run ios",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-wikitudearchitectview && tns plugin add .. && tns install",
+    "setup": "cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd .."
+  },
+  "typings": "index.d.ts",
+  "version": "0.4.6"
+}

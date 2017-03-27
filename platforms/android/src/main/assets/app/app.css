@@ -1,21 +1,80 @@
+.Material {
+    font-family: MaterialIcons-Regular, Material Icons;
+}
 
-@import url("~/platform.css");
+button {
+    font-family: 'Roboto', Roboto;
+}
 
-ActionBar {
-  background-color: black;
-  color: white;
+.align-center {
+    vertical-align: center;
+    horizontal-align: center;
 }
-Page {
-  background-color: white;
-  font-size: 15;
+
+.title {
+    font-size: 30;
+    margin: 4;
 }
-TextField {
-  padding: 10;
-  font-size: 13;
+
+.subtitle {
+    font-size: 24;
 }
-.small-spacing {
-  margin: 5;
+
+.info {
+    font-size: 20;
+    margin:4;
 }
-.medium-spacing {
-  margin: 10;
+
+.size16 {
+    font-size: 16;
+    margin: 2;
+}
+
+.clear-btn {
+    background-color: white;
+    padding:5px;
+}
+
+.blue {
+    color: #6A78C5;
+}
+
+.gray {
+    color: #666;
+}
+
+.white {
+    color: #fff;
+}
+
+.avatar-circle {
+    font-size:35;
+    height: 50;
+    width: 50;
+    color: #fff;
+    background-color: #FF4081;
+    border-radius: 25;
+    margin-left: 16;
+    margin-top: 5; 
+    horizontal-align: center;
+    vertical-align: center;
+    text-align: center;
+}
+
+.blackCard {
+    background-color: #333;
+    color: white;
+}
+
+.blueCard {
+    background-color: #3489db;
+    color: white;
+}
+
+.jokerCard {
+    background-color: yellow;
+}
+
+.whiteCard {
+    background-color:#fff;
 }

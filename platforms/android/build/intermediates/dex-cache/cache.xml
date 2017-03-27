@@ -2,48 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.2.0_78a2d32e047b39abcf57fdf57d1efe900e63a96a.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-25.2.0_58c04ce4cb3eb2e9d9f1afb5311ed0a172406fcd.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-25.2.0_fe0f21cba847c15ffb5ce8b1b436f44214aa8e3e.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
-        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_75e8651928262d0f58c47c3d3eea09e894a34007.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="632bf39700c28ba66c117628dab343126ef89551">
-        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/Groceries-runtime-unspecified_10ee22a9e349bb43a0a4907fa94f76003cd61830.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-25.2.0_3843ca09128069e44f35d6f899cadf30d7f0e9bb.jar" />
-    </item>
-    <item
         jar="/home/adamali/android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
         jumboMode="false"
         revision="25.0.2"
@@ -58,6 +16,13 @@
         <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-25.2.0_2845e6715cb4b1ab2499540aa344f5145573bb09.jar" />
     </item>
     <item
+        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.2.0_78a2d32e047b39abcf57fdf57d1efe900e63a96a.jar" />
+    </item>
+    <item
         jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
@@ -65,11 +30,32 @@
         <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-25.2.0_e60597e471280e5cbf58669269aef94e9155a0f9.jar" />
     </item>
     <item
+        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-25.2.0_58c04ce4cb3eb2e9d9f1afb5311ed0a172406fcd.jar" />
+    </item>
+    <item
         jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
         <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-25.2.0_aa69910639103c54d6b0dcdc74c9232072279d5e.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-25.2.0_fe0f21cba847c15ffb5ce8b1b436f44214aa8e3e.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_75e8651928262d0f58c47c3d3eea09e894a34007.jar" />
     </item>
     <item
         jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
@@ -93,10 +79,24 @@
         <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-transition-25.2.0_ac03df72568c4770b4726776d5762e76bc159412.jar" />
     </item>
     <item
+        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/Groceries-runtime-unspecified_10ee22a9e349bb43a0a4907fa94f76003cd61830.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-25.2.0_3843ca09128069e44f35d6f899cadf30d7f0e9bb.jar" />
+    </item>
+    <item
         jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/wikitudesdk/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="205ea15098e7445d0bda416e6e2a456e825af14b">
+        sha1="b83fe98cb7e476aa7bbb687a7347922983794138">
         <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-wikitudesdk_904beb650f4a4e7db9ef714f211dd763b18aba27.jar" />
     </item>
     <item
@@ -105,6 +105,13 @@
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-25.2.0_b0517294091795d983babf10aacf688e88a076c5.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-cardview-v7-25.2.0_224b3ebc9d7b5b8ef1232149428c97fc9a28ddcb.jar" />
     </item>
     <item
         jar="/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"

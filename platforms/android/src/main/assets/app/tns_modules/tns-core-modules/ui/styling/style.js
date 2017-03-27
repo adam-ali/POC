@@ -1352,10 +1352,10 @@ var StylePropertyChangedHandler = (function () {
             _defaultNativeValuesCache[className + property.id] = this._getNativeValue(view);
         }
         if (application.android) {
-            newValue = newValue.android ? newValue.android : newValue;
+            newValue = types.isDefined(newValue.android) ? newValue.android : newValue;
         }
         else if (application.ios) {
-            newValue = newValue.ios ? newValue.ios : newValue;
+            newValue = types.isDefined(newValue.ios) ? newValue.ios : newValue;
         }
         this._applyProperty(view, newValue, _defaultNativeValuesCache[className + property.id]);
     };

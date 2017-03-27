@@ -1,19 +1,19 @@
 [
     {
-        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/notification_bg.xml",
-        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_bg.xml"
-    },
-    {
         "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_btn_check_material.xml",
         "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/notification_bg.xml",
+        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_edit_text_material.xml",
         "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/home/adamali/Projects/POC-Star/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_btn_radio_material.xml",
