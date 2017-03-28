@@ -5,11 +5,9 @@ import { Demo } from "./main-view-model";
 import { View } from "ui/core/view";
 import { ArchitectView } from 'nativescript-wikitudearchitectview'
 import * as frameModule from 'ui/frame'
-import * as camera from "nativescript-camera";
 
 function pageLoaded(args) {
   var page = <View>args.object;
-      camera.requestPermissions();
   page.bindingContext = new Demo();
   var architectView = page.getViewById<any>("architectView");
   console.log('pageLoaded');

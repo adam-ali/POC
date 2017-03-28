@@ -2,7 +2,6 @@
   "name": "ar-camera",
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
-  "readme": "NativeScript Application",
   "nativescript": {
     "id": "org.nativescript.Groceries",
     "tns-android": {
@@ -10,8 +9,7 @@
     }
   },
   "dependencies": {
-    "nativescript-camera": "0.0.8",
-    "nativescript-wikitudearchitectview": "file:..",
+    "nativescript-wikitudearchitectview": "^0.4.6",
     "tns-core-modules": "^2.4.0"
   },
   "devDependencies": {
@@ -23,5 +21,19 @@
     "nativescript-dev-typescript": "^0.3.5",
     "typescript": "~2.1.0",
     "zone.js": "~0.7.2"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-ali/POC.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/adam-ali/POC/issues"
+  },
+  "homepage": "https://github.com/adam-ali/POC#readme"
 }

@@ -3,6 +3,5 @@
       loaded="pageLoaded">
       <GridLayout rows="*, auto">
         <ar:ArchitectView id="architectView" urlString="http://10.20.30.79:8888" urlLoaded='urlLoaded' urlLoadError='urlLoadError' urlInvoked='urlInvoked'/>
-        <Button row="1" text='Test Page' tap='goToTestPage'></Button>
       </GridLayout>
 </page>

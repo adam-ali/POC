@@ -5,7 +5,6 @@ import { Demo } from "./main-view-model";
 import { View } from "ui/core/view";
 import { ArchitectView } from 'nativescript-wikitudearchitectview'
 import * as frameModule from 'ui/frame'
-import * as camera from "nativescript-camera";
 
 function pageLoaded(args) {
   var page = <View>args.object;
@@ -15,10 +14,6 @@ function pageLoaded(args) {
   console.log('pageLoaded');
 }
 exports.pageLoaded = pageLoaded;
-
-export function goToTestPage(eventData){
-  frameModule.topmost().navigate('test-page')
-};
 
 export function urlLoaded(eventData){
   console.log(eventData.url);

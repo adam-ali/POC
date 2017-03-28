@@ -10,7 +10,7 @@
         "spec": "latest",
         "type": "tag"
       },
-      "/home/adamali/Projects/POC-Star"
+      "/home/adamali/Projects/POC"
     ]
   ],
   "_from": "nativescript-wikitudearchitectview@latest",
@@ -45,7 +45,7 @@
   "_shasum": "9d6be0f99a02248774dfa976e578fcf062aebb88",
   "_shrinkwrap": null,
   "_spec": "nativescript-wikitudearchitectview",
-  "_where": "/home/adamali/Projects/POC-Star",
+  "_where": "/home/adamali/Projects/POC",
   "author": {
     "name": "jin"
   },
