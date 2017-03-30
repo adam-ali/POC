@@ -39,3 +39,8 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+
+# tns platform
+/platforms/android/.gradle/*
+/platforms/android/build/*
+/platforms/android/
