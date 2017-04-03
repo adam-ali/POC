@@ -5,7 +5,8 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/.DS_Store": true,
-    "**/app/**/*.js":true,
+    // "**/**/js/**/*.js":false,
+    // "**/app/**/*.js":true,
     "**/*.js": { "when": "$(basename).ts"}
   }
 }

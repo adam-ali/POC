@@ -7,6 +7,7 @@ import { ArchitectView } from 'nativescript-wikitudearchitectview'
 import * as frameModule from 'ui/frame'
 
 function pageLoaded(args) {
+  console.log(args.object)
   var page = <View>args.object;
   page.bindingContext = new Demo();
   var architectView = page.getViewById<any>("architectView");
@@ -27,3 +28,7 @@ export function urlLoadError(eventData) {
 export function urlInvoked(eventData){
   console.log('url invoked')
 };
+ 
+export function urlString(data) {
+
+}

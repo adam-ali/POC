@@ -6,9 +6,12 @@ import { View } from "ui/core/view";
 import { ArchitectView } from 'nativescript-wikitudearchitectview'
 import * as frameModule from 'ui/frame'
 
+// import { World } from './js/poiwithlabel.js'; 
+// import { Marker } from './js/marker.js'; 
+
 function pageLoaded(args) {
+  console.log(args.object)
   var page = <View>args.object;
-      camera.requestPermissions();
   page.bindingContext = new Demo();
   var architectView = page.getViewById<any>("architectView");
   console.log('pageLoaded');
@@ -28,3 +31,9 @@ export function urlLoadError(eventData) {
 export function urlInvoked(eventData){
   console.log('url invoked')
 };
+ 
+export function urlString(data) {
+  // World.loadPoisFromJsonData()
+
+  // Marker(World.locationChanged())
+}
