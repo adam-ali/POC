@@ -9,6 +9,7 @@
     }
   },
   "dependencies": {
+    "nativescript-geolocation": "0.0.19",
     "nativescript-wikitudearchitectview": "^0.4.6",
     "tns-core-modules": "^2.4.0"
   },

@@ -1,3 +1,1 @@
-/home/adamali/Projects/POC/platforms/android/src/main/assets/app/js/marker.js
-/home/adamali/Projects/POC/platforms/android/src/main/assets/app/js/poiwithlabel.js
 /home/adamali/Projects/POC/platforms/android/src/main/assets/app/main-page.js

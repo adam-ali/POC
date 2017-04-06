@@ -33,6 +33,12 @@ var ArchitectView = (function (_super) {
         };
         this.notify(eventData);
     };
+
+    ArchitectView.prototype.setLocation = function (lat, lon, accuracy) {
+        var architectView = data.object;
+        architectView.setLocation(lat, lon, accuracy);
+    }
+
     ArchitectView.prototype.onUrlLoadError = function (error) {
         var eventData = {
             eventName: ArchitectView.urlLoadErrorEvent,

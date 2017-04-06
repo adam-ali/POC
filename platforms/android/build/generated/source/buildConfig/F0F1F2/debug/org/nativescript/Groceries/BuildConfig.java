@@ -11,6 +11,6 @@ public final class BuildConfig {
   public static final int VERSION_CODE = 1;
   public static final String VERSION_NAME = "1.0";
   public static final String FLAVOR_tnscoremoduleswidgets = "F0";
-  public static final String FLAVOR_nativescriptwikitudearchitectview = "F1";
-  public static final String FLAVOR_nativescriptcamera = "F2";
+  public static final String FLAVOR_nativescriptgeolocation = "F1";
+  public static final String FLAVOR_nativescriptwikitudearchitectview = "F2";
 }
