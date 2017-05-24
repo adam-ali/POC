@@ -15,6 +15,8 @@ declare var com : any;
 var lat,lon,alt,architectView, AR;
 function pageLoaded(args) {
   var page = <View>args.object;
+ 
+// console.dump(com.wikitude);
   
    if (!geolocation.isEnabled()) {
         geolocation.enableLocationRequest();
@@ -37,15 +39,15 @@ export function urlLoaded(eventData){
           lon = loc.longitude
           alt = loc.altitude
           // console.dump(architectView);
-          architectView._android.setLocation(lat, lon, .5);
+          architectView._android.setLocation(lat, lon, alt);
           // architectView.callJavaScript(`custom(${lat}, ${lon}, ${alt})`);
             console.log("Received location: " + lat, lon);
-        }
+        } 
     }, 
     function(e){
         console.log("Error: " + e.message);
     }, 
-    {desiredAccuracy: 1, updateDistance: 10, minimumUpdateTime : 1000}); // Should update every 20 seconds according to Googe documentation. Not verified.
+    {desiredAccuracy: 3, updateDistance: 10,  minimumUpdateTime : 1000 * 10}); // Should update every 20 seconds according to Googe documentation. Not verified.
 
 };
 

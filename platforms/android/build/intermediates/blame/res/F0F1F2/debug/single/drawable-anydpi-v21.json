@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
         "merged": "/home/adamali/Projects/POC/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },

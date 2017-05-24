@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/home/adamali/Projects/POC/platforms/android/build/intermediates/res/merged/F0F1F2/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }

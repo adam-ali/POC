@@ -2,130 +2,130 @@
 <items version="2" >
 
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-25.2.0_f12a185c4c9ea8c60a22380a8e7cf6d829890992.jar" />
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-25.2.0_e833a936a8f89ae8e9a6f68c165ba96971e9275e.jar" />
     </item>
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-25.2.0_b3e5223827074a9018b6c8001155450b62809d09.jar" />
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-25.2.0_d5166c175a8d5f8825fa7c62e17048bad56f80b3.jar" />
     </item>
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/binding-generator_6c418ecf4956341cea731534d494b4d668c1520e.jar" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-fragment-25.2.0_1f6f784af05c6dd29dd36de82c4c8e05a4fc64bf.jar" />
     </item>
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-25.2.0_6fce36664eff99a9e3ebb71fad9f988f0160713d.jar" />
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/Groceries-runtime-unspecified_cd3fff946723d7534574b8a750c29f39c6c8c88c.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-25.2.0_6ff7625cfcb95633bbf9cffa404e34c5695a747a.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-25.2.0_7fa00f5266feee153b4de067c48cc6a05132fa30.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-25.2.0_69559d9d4b8009c208ffb177ff16225cb114f14b.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-25.2.0_dd8b61d208ea5a6d0881d83c909676f3e0ede66a.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.2.0_ac01ba0bb8c172eeec64cc2d20aa2b8b8442e1e2.jar" />
     </item>
     <item
         jar="/home/adamali/android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-25.2.0_65c80362e9d21c20fa5b1cc7aac8018d6c53f469.jar" />
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-25.2.0_65c80362e9d21c20fa5b1cc7aac8018d6c53f469.jar" />
     </item>
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="e51c2f662bb72419632af5192553c37e33890a99">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-transition-25.2.0_bd0ae7bc2dea34b13f2ac4ea5f6d1dc3e53d3139.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="8a73b09319cc3945912970487ced4c7724acc97d">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_aed49d2838a0065db48b688d2428bf00e8b441b1.jar" />
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_b302b05db316b1f7b73683ba157d7148053f5737.jar" />
     </item>
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/wikitudesdk/jars/classes.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="b83fe98cb7e476aa7bbb687a7347922983794138">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-wikitudesdk_88df92de387b4a61a90021712c91ec967ad9522c.jar" />
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-transition-25.2.0_232d40aff8acdd0dd9fd30fac870f93c231f5c89.jar" />
     </item>
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-25.2.0_b822d14c80ba3ee97fbfd704ce262da5e0eedb71.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-25.2.0_6b80bf73a6c7f1c2da67127f0eb06576ed8c10b9.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="632bf39700c28ba66c117628dab343126ef89551">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/Groceries-runtime-unspecified_07d21cb48cbea6790bb58c98204b4300db0b4868.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-25.2.0_5502a6e1265e6362dfd0c5bc22fc487077f6db2b.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-25.2.0_411641daac1c39867d5c55dbccf782aa54ef7156.jar" />
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-25.2.0_91fb076637f4b68d4dfc6fe184d5d25db219e8d6.jar" />
     </item>
     <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-25.2.0_e97b4b7ee044801740d4fdb8a91fb27ae6ec53dd.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/wikitudesdk/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a19d7479d1bf3122134a0b6bcfec833a97433642">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-wikitudesdk_3725e6b1d7fefc70f542a17fae5eed487b167173.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/binding-generator_5f46d846f06ee9ddabf88f1df9811f9dadd9a187.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-25.2.0_0cc1f68e4baeb9b922669bd60e48e389eea867a9.jar" />
+    </item>
+    <item
+        jar="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-cardview-v7-25.2.0_4f25a4137936dc1345f892e7a6b88fd03dede5bc.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-25.2.0_ff16d4c1f5466305cca206931099a99c5a3c1750.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-25.2.0_e1dc1859b29f0798822168848b8af7eec68b9a47.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.2.0_a82e2acb09e924c6ca400f590e449961d424c57b.jar" />
-    </item>
-    <item
-        jar="/home/adamali/Projects/POC/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/home/adamali/Projects/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-fragment-25.2.0_85dd9fa528aa2edc8fbfb9ca3fe224ad9efd45ff.jar" />
+        <dex dex="/home/adamali/Projects/Glimpz/POC/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-cardview-v7-25.2.0_400cceb3d07bb76359cb9ba7b8264a343826c521.jar" />
     </item>
 
 </items>

@@ -5,7 +5,9 @@
 //   template: "<page-router-outlet></page-router-outlet>"
 // })
 // export class AppComponent {
-// }
+// } 
+
+
 
 import * as app from 'application';
 app.mainModule = "main-page";

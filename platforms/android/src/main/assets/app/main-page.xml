@@ -2,7 +2,9 @@
       xmlns:ar="nativescript-wikitudearchitectview" 
       loaded="pageLoaded">
       <GridLayout rows="*, auto">
-        <ar:ArchitectView id="architectView" urlString="https://poc-star.firebaseapp.com/" urlLoaded='urlLoaded' urlLoadError='urlLoadError' urlInvoked='urlInvoked'/>
+        <ar:ArchitectView id="architectView" urlString="https://wikitudearworld.firebaseapp.com/spection" urlLoaded='urlLoaded' urlLoadError='urlLoadError' urlInvoked='urlInvoked'/>
         <!--<Button row="1" text='{{location}}' tap='passLocation'></Button>-->
       </GridLayout>
 </Page> 
+<!--spection-->
+<!--deMorganized-->
